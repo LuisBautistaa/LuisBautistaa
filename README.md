@@ -1,11 +1,11 @@
 ### Hola 👋, mi nombre es Luis Bautista
 #### **Desarrollador de software** 
-Mi actividad principal en mi puesto actual es el desarrollo de aplicaciones móviles híbridas, utilizando las siguientes tecnologías, Dart, Flutter, Java, SQL,Firebase, Git, apasionado por el aprendizaje, así mismo me encuentro practicando las nuevas opciones de FLutter web asi como con JavaScript.
-En la parte BackEnd me encuentro aprendiendo  y practicando Spring Framework
+Mi actividad principal en mi puesto actual es desarrollador java, utilizando las siguientes tecnologías: Java, Spring boot, pruebas unitarias, Git, apasionado por el aprendizaje, así mismo me encuentro practicando JavaScript.
+
 
 Habilidades: FLUTTER / DART / JAVA / SQL / JAVASCRIPT
 
-- 🔭 Estoy trabajando en ENNOVASOFT 
+- 🔭 Estoy trabajando en Tata COnsultancy Service 
 - 🌱 Estoy aprendiendo FLUTTER WEB,  REACT, SPRING BOOT
 
 
